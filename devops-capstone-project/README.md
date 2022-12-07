@@ -1,4 +1,5 @@
 # DevOps Capstone Template
+# 
 
 ![Build Status](https://github.com/ryoung441/devops-capstone-project/actions/workflows/ci-build.yaml/badge.svg)
 
@@ -133,5 +134,8 @@ You can now perform Tekton development locally, just like in the Cloud IDE lab e
 Licensed under the Apache License. See [LICENSE](LICENSE)
 
 ## <h3 align="center"> © IBM Corporation 2022. All rights reserved. <h3/>
+<<<<<<< HEAD
+=======
 
 ## additional comment line
+>>>>>>> 74d9c09e78e6383b5daf46f6707925a20c95f977
