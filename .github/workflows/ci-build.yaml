@@ -1,7 +1,5 @@
 HEAD:.github/workflows/ci-build.yaml
 
-#CI Build Workflow
-ea1fbdd575c6db1aa5e9cfce5fa754b39f30bd39:devops-capstone-project/.github/workflows/ci-build.yaml
 name: CI Build
 on:
   push:
